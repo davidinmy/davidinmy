@@ -9,7 +9,8 @@ I am an MSc student in Electric and Computer Engineering @ NYU Tandon. I got my 
 *   🌍  I'm based in New York
 *   ✉️  You can contact me at [heliushanchuan@gmail.com](mailto:heliushanchuan@gmail.com)
 *   🧠  I'm learning Microservices
-*   ⚡  I'm in a gap year right now.### Skills 
+*   ⚡  I'm in a gap year right now.
+   ### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
