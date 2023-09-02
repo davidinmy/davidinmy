@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MSc student at NYU Tandon
 -------------------------
 
-I am an MSc student in Electric and Computer Engineering @ NYU Tandon. I got my BSc Computer Science degree and graduated from the University of Nottingham on June 2022. I aim to be a full-stack developer and I am passionate about MERN technologies. Besides, I love traveling all around the world and I've been to more than 15 countries so far.
+I am an MSc student in Electrical and Computer Engineering @ NYU Tandon. I got my BSc Computer Science degree and graduated from the University of Nottingham on June 2022. I aim to be a full-stack developer and I am passionate about MERN technologies. Besides, I love traveling all around the world and I've been to more than 15 countries so far.
 
 *   🌍  I'm based in New York
 *   ✉️  You can contact me at [heliushanchuan@gmail.com](mailto:heliushanchuan@gmail.com)
